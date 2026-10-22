@@ -8,7 +8,7 @@
 
 ### sobre mim
 
-Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.fct.unl.pt/), a frequentar também unidades curriculares de mestrado.
+Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.fct.unl.pt/).
 
 - 🎖️ **Academia Militar** (2009–2015)
 - 🗺️ **Centro de Informação Geoespacial do Exército** (2019-...)
