@@ -20,6 +20,6 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 <div align="center">
 
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=SalaSimoes&bg_color=0d1117&color=c9d1d9&title_color=c9d1d9&line=556B2F&point=8FA35A&area=true&area_color=556B2F&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Gráfico de contribuições](https://ghchart.rshah.org/556B2F/SalaSimoes)
 
 </div>
