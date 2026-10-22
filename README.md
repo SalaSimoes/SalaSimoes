@@ -20,6 +20,6 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SalaSimoes&locale=pt_PT&hide_border=true&background=00000000&ring=556B2F&fire=556B2F&currStreakLabel=556B2F)](https://git.io/streak-stats)
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=SalaSimoes&bg_color=0d1117&color=c9d1d9&title_color=c9d1d9&line=556B2F&point=8FA35A&area=true&area_color=556B2F&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
