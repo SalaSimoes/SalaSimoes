@@ -15,6 +15,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Contar contribuições do último ano
+        env:
+          GH_TOKEN: ${{ secrets.SNAKE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          TOTAL=$(gh api graphql \
+            -f query='query($u:String!){user(login:$u){contributionsCollection{contributionCalendar{totalContributions}}}}' \
+            -F u="${{ github.repository_owner }}" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          cat > dist/contribuicoes.svg <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70">
+            <style>
+              .n { font: 700 34px 'Segoe UI', Ubuntu, sans-serif; fill: #8FA35A; }
+              .l { font: 400 16px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+            </style>
+            <text x="300" y="38" text-anchor="middle" class="n">${TOTAL}</text>
+            <text x="300" y="62" text-anchor="middle" class="l">contribuições no último ano</text>
+          </svg>
+          SVG
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
