@@ -22,6 +22,8 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SalaSimoes&locale=pt_PT&theme=dark&hide_border=true&background=00000000&ring=556B2F&fire=8FA35A&currStreakLabel=8FA35A)](https://git.io/streak-stats)
 
+![Contribuições no último ano](https://raw.githubusercontent.com/SalaSimoes/SalaSimoes/output/contribuicoes.svg)
+
 ![Cobra das contribuições](https://raw.githubusercontent.com/SalaSimoes/SalaSimoes/output/snake.svg)
 
 </div>
