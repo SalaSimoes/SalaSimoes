@@ -12,7 +12,7 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 - 🎖️ **Academia Militar** (2009–2015)
 - 🗺️ **Centro de Informação Geoespacial do Exército** (2019-...)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-salas-sim%C3%B5es-093010385)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-salas-simoes)
 
 ---
 
