@@ -20,6 +20,6 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 <div align="center">
 
-![Gráfico de contribuições](https://ghchart.rshah.org/556B2F/SalaSimoes)
+![Cobra das contribuições](https://raw.githubusercontent.com/SalaSimoes/SalaSimoes/output/snake.svg)
 
 </div>
