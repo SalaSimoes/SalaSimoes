@@ -10,8 +10,8 @@
 
 Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.fct.unl.pt/), a frequentar também unidades curriculares de mestrado.
 
-- 🎖️ formado pela **Academia Militar** (2009–2015)
-- 🗺️ passei pelo **Centro de Informação Geoespacial do Exército**
+- 🎖️ **Academia Militar** (2009–2015)
+- 🗺️ **Centro de Informação Geoespacial do Exército** (2019-...)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-salas-sim%C3%B5es-093010385)
 
 ---
