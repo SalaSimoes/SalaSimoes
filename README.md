@@ -8,7 +8,7 @@
 
 ---
 
-### sobre mim
+### About me
 
 Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.fct.unl.pt/).
 
@@ -18,7 +18,7 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 
 ---
 
-### estatísticas
+### Estatísticas
 
 <div align="center">
 
