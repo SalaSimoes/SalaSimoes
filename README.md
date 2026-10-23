@@ -8,8 +8,6 @@
 
 ---
 
-### About me
-
 Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.fct.unl.pt/).
 
 - 🎖️ **Academia Militar** (2009–2015)
