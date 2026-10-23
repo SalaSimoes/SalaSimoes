@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="paraquedas-animado.svg" width="260" alt="Salas Simões">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=556B2F&center=true&vCenter=true&width=700&lines=%C3%89+perante+o+obst%C3%A1culo+que+o+homem+se+descobre;S%C3%B3+vence+quem+acredita+na+vit%C3%B3ria)](https://git.io/typing-svg)
 
 </div>
