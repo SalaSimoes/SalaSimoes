@@ -14,6 +14,9 @@ Estudante do 3.º ano de **Engenharia Informática** na [NOVA FCT](https://www.f
 - 🗺️ **Centro de Informação Geoespacial do Exército** (2019-...)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-salas-simoes)
 
+### Projetos
+   - 🏠 [DomusRoom](https://pedro22-cpu.github.io/portfolio/) — projeto de Interação Pessoa-Máquina (NOVA FCT, em grupo)
+
 ---
 
 ### Estatísticas
